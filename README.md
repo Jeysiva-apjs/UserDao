@@ -15,13 +15,25 @@
 
 ## Update
 
-##### Updated user name and mail ID.
+##### Updating user name and mail ID.
 
 ![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/e9a0371e-aaf1-45d5-8df6-c9991ff3a25e)
 
-##### Values are updated in the table.
+##### Values are updated in the database table.
 
 ![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/30b0263b-f124-4818-9772-38ee321d1653)
+
+## Delete 
+
+![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/73e6fddb-283b-45a4-b816-c8d9c331e587)
+
+##### User got deleted in the database table.
+
+![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/e268ed1d-8c1e-478c-a366-cabd6fc00afe)
+
+
+
+
 
 
 
