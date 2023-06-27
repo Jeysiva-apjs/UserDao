@@ -8,7 +8,6 @@
 
 ## Sample Outputs 
 
-#### Table of Contents  
 - [Create](#Create) 
 - [Update](#Update)
 - [Delete](#Delete)
