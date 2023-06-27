@@ -31,6 +31,27 @@
 
 ![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/e268ed1d-8c1e-478c-a366-cabd6fc00afe)
 
+## Read
+
+##### User data in the database table
+
+![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/b5d62fa7-8b32-4870-bfbc-2dc3eb7bfc49)
+
+##### Read all users from the database table
+
+![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/466f9c3c-b5a4-46be-a1ce-9f975a3a197e)
+
+##### Read a user's data by ID from the database table
+
+![image](https://github.com/Jeysiva-apjs/UserDao/assets/126048586/2d955613-2544-497b-9f8b-168c5377df29)
+
+
+
+
+
+
+
+
 
 
 
