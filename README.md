@@ -4,9 +4,11 @@
 2. Successfully **implemented CRUD (Create, Read, Update, Delete) functionality** to ensure seamless management of user data.
 
 ##### Table of Contents  
-[Sample Outputs](#Sample Outputs)  
-[Create](#Create) 
-[Read](#Read) 
+
+- [Create](#Create) 
+- [Update](#Update)
+- [Delete](#Delete)
+- [Read](#Read) 
 
 ## Sample Outputs 
 
